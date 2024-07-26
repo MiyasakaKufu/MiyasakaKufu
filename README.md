@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiyasakaKufu
-- 🌱 I’m currently learning Swift, Flutter, Kotlin
+- 🌱 I’m currently learning Swift, SwiftUI
 
 <!---
 MiyasakaKufu/MiyasakaKufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
