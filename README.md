@@ -3,7 +3,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyasakaKufu)
 
 - 👋 Hi, I’m @MiyasakaKufu
-- 🌱 I’m currently learning Swift, SwiftUI
+- 🌱 I’m currently learning Swift, SwiftUI, UIKit, RxSwift, SpriteKit, Metal
+
+## 特徴
+
+- エンジニアの皮を被った何か
+- エンジニアにしては「昆虫」に詳しい🐛
 
 <!---
 MiyasakaKufu/MiyasakaKufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
