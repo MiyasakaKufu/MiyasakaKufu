@@ -9,6 +9,7 @@
 
 - エンジニアの皮を被った何か
 - エンジニアにしては「昆虫」に詳しい🐛
+- 将棋ウォーズ4段です。対よろです。
 
 <!---
 MiyasakaKufu/MiyasakaKufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
